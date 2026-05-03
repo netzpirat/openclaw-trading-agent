@@ -24,6 +24,8 @@ See the full [Architecture Documentation](docs/ARCHITECTURE.md) for subsystems, 
 
 Architecture Diagram
 
+https://github.com/user-attachments/assets/d8f5110a-6401-42bd-b5f5-b154c7b0a418
+
 ## Nocturne Live Agents
 
 - GPT-5 Pro: [Portfolio Dashboard](https://hypurrscan.io/address/0xa049db4b3dfcb25c3092891010a629d987d26113) | [Live Logs](https://35.190.43.182/logs/0xC0BE8E55f469c1a04c0F6d04356828C5793d8a9D) (Seeded with $200)
