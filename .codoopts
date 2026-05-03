@@ -1,8 +1,0 @@
---readme     README.md
---title      "Haml Coffee Documentation"
---private
---output-dir ./doc
-./src
--
-LICENSE
-CHANGELOG.md

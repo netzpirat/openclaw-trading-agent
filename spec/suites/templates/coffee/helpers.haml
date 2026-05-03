@@ -1,9 +1,0 @@
-= surround '(', ')', ->
-  %a{:href => "food"}= @food
-= surround '(', ')', -> 'sTESTs'
-= surround '(', ')', -> '\t\n  strip whitespace  \n\t'
-click
-= succeed '.', ->
-  %a{:href=>"thing"}= @thing
-= precede '*', ->
-  %span.small= @really
