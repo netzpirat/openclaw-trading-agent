@@ -128,14 +128,15 @@ Using the right stack improves:
 
 ## 🖥️ Infrastructure
 
-**Low-Latency VPS (New York Recommended)**
+### Recommended Hosting: AgentVPS
 
-* Faster transaction propagation
-* Better execution reliability
-* Ideal for bots & MEV strategies
+Running a trading bot 24/7 needs a server that stays online. **[AgentVPS](https://agentvps.io)** provides VPS hosting for bots and automated trading setups, so your bot keeps running while your own computer is off.
 
-→ [Get VPS](https://app.tradingvps.io/aff.php?aff=22)
+- Always-on servers for bots and scripts
+- Stable connections for faster, more reliable trading
+- Set up and manage your bot from anywhere
 
+**[Get started with AgentVPS](https://agentvps.io)**
 ---
 
 ## 📁 Project Structure
